@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Site',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Adarsh pandya', // Usually your GitHub org/user name.
+  projectName: 'fusion', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Fusion',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/mainLogo.svg',
       },
       links: [
         {
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Fusion, Inc. Built with ❤️ & Docusaurus.`,
     },
   },
   presets: [
